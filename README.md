@@ -2,18 +2,11 @@
 
 Viva La Dirt League Clothing Pack For ALTV, FiveM and Single Player
 
-
-This is a little project I slapped together with the DurtyClothTool
-
-# You must be a Patron of the $US15 tier or higher, if not, visit the [Patreon page](https://www.patreon.com/fivem). Prices may change at any given date and is out of my control.
-
-*Alternatively, you can set your player count to 10*
-
 # Screenshots 📸
 
 | | |
 |-|-|
-| <img src="SCREENSHOTS/VLDL001.jpeg" width="750"> | <img src="SCREENSHOTS/VLDL002.png" width="750"> |
+| <img src="SCREENSHOTS/VLDL001.jpeg" width="550"> | <img src="SCREENSHOTS/VLDL002.png" width="550"> |
 
 
 ----------------------------------------------------------------
