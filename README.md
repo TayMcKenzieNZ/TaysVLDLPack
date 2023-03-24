@@ -118,7 +118,7 @@ IF THEY DO NOT APPEAR, YOU DO NOT HAVE THE REQUIRED PATREON SUBSCRIPTION TO STRE
 
 # License 📝
 
-This repository was created by **TayMcKenzieNZ** for strict usage with the Grand Theft Auto 5 single player and unofficial multiplayer platforms, and is under the GPL V3 license.
+This repository was created by **TayMcKenzieNZ** for strict usage with the Grand Theft Auto 5 single player and unofficial multiplayer platforms, and is under the GNU General Public License v3.0 license.
 
  ' That Shit's Dingo ' artwork is the intellectual property of Angga Tantama and was comissioned by Viva La Dirt League.
 
