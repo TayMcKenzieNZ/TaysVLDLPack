@@ -3,7 +3,7 @@
 Viva La Dirt League Clothing Pack For ALTV, FiveM and Single Player
 
 <p align="center">
-  <a href="https://github.com/TayMcKenzieNZ/TaysVLDLPack/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0-blue.svg" alt="License"></a>
+  <a href="https://github.com/TayMcKenzieNZ/TaysVLDLPack/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License"></a>
   <a href="https://github.com/TayMcKenzieNZ/TaysVLDLPack"><img src="https://img.shields.io/github/stars/TayMcKenzieNZ/TaysVLDLPack.svg?style=social" alt="Star"></a>
   <a href="https://github.com/TayMcKenzieNZ/TaysVLDLPack"><img src="https://img.shields.io/github/forks/TayMcKenzieNZ/TaysVLDLPack.svg?style=social&label=Forks" alt="Forks"></a>
 </p>
