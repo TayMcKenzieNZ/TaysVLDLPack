@@ -1,7 +1,11 @@
--- Generated with DurtyClothTool
+-- Generated with DurtyClothTool --
+-- Created By TayMcKenzieNZ --
 
 fx_version 'cerulean'
 game { 'gta5' }
+author 'TayMcKenzieNZ'
+description 'viva La Dirt League Clothing By TayMcKenzieNZ'
+
 
 files {
   'mp_m_freemode_01_mp_m_taysvldlpack.meta',
